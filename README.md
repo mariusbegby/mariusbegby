@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mariusbegby
 - 💻 I’m interested in computers, technology and the software behind
-- 📚 I’m currently studying for a bachelor in Informatics (Computer Science)
+- 📚 I’m currently studying for a bachelor in Computer Science (Informatics)
 - 📫 Feel free to reach me at mariusbegby@gmail.com
