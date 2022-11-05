@@ -1,4 +1,4 @@
-![Welcome header image](https://i.imgur.com/vH2InFy.png)
+# Hi! 👋🏻
 
 - 🤙🏻 I’m **[@mariusbegby](https://github.com/mariusbegby)**!
 - 💡 I am interested in technology, computers and the software behind.
@@ -8,7 +8,8 @@
 - 📫 Feel free to reach me at mariusbegby@gmail.com or my [LinkedIn](https://www.linkedin.com/in/mariusbegby).
 
 ---
-![Tools image](https://i.imgur.com/BrC3jEM.png)
+
+## Some tools I use 🔧
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,nodejs,nextjs,react,express,html,css,sass,js,ts,jest,prisma,vscode,visualstudio,vim,linux,bash,azure,dotnet,cs,mongodb,sqlite,docker,md)](https://skillicons.dev)
 
