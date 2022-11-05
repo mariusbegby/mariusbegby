@@ -9,7 +9,7 @@
 
 ---
 
-## Some tools I use 🔧
+## Some tools I use 🛠️
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,nodejs,nextjs,react,express,html,css,sass,js,ts,jest,prisma,vscode,visualstudio,vim,linux,bash,azure,dotnet,cs,mongodb,sqlite,docker,md)](https://skillicons.dev)
 
