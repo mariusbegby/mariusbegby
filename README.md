@@ -4,7 +4,7 @@
 - 💡 I am interested in technology, computers and the software behind.
 - 🎒 Currently studying for a bachelor in Computer Science (Informatics), with specialization in programming.
 - 🔧 I like to learn about all kinds of tools and create solutions to problems, doing my part making the world a better place.
-- ✨ Have experience with Node.js, web languages, .NET & C#, linux and more. Primarly backend focused.
+- ✨ Have experience with Node.js, web languages, .NET & C#, linux and more. Primarily backend focused.
 - 📫 Feel free to reach me at mariusbegby@gmail.com or my [LinkedIn](https://www.linkedin.com/in/mariusbegby).
 
 ---
