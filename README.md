@@ -3,8 +3,8 @@
 - 🤙🏻 I’m **[@mariusbegby](https://github.com/mariusbegby)**!
 - 💡 I am interested in technology, computers and the software behind.
 - 🎒 Currently studying for a bachelor in Computer Science (Informatics), with specialization in programming.
-- 🔧 I like to learn about all kinds of tools and create solutions to problems, doing my part making the world a better place.
-- ✨ Have experience with Node.js, web languages, .NET & C#, linux and more. Primarily backend focused.
+- 🔧 I like to learn about all kinds of tools and create solutions to problems with what I've learned.
+- ✨ Have experience with Node.js, web languages, .NET & C#, linux and more.
 - 📫 Feel free to reach me at mariusbegby@gmail.com or my [LinkedIn](https://www.linkedin.com/in/mariusbegby).
 
 ---
