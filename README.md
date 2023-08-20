@@ -4,14 +4,13 @@
 - 💡 I am interested in technology, computers and the software behind.
 - 🎒 Currently studying for a bachelor in Computer Science (Informatics), with specialization in programming.
 - 🔧 I like to learn about all kinds of tools and create solutions to problems with what I've learned.
-- ✨ Have experience with Git, HTML/SASS, JavaScript, Node.js, React, unit testing, Linux, Azure, .NET, C#, MongoDB, SQL, Python, Java and more.
-- 📫 Feel free to reach me at mariusbegby@gmail.com, my [LinkedIn](https://www.linkedin.com/in/mariusbegby) or [begby.dev](https://begby.dev).
+- 🙋🏼‍♂️ Feel free to reach me at mariusbegby@gmail.com, my [LinkedIn](https://www.linkedin.com/in/mariusbegby) or my website [begby.dev](https://begby.dev).
 
 ---
 
 ## Some tools I use 🛠️
 
-[![Images of languages and tools I use](https://skillicons.dev/icons?i=git,github,githubactions,nodejs,nextjs,react,express,html,css,sass,tailwind,js,ts,vercel,jest,prisma,vscode,visualstudio,vim,linux,bash,postman,azure,dotnet,cs,mongodb,sqlite,md,regex)](https://skillicons.dev)
+[![Images of languages and tools I use](https://skillicons.dev/icons?i=git,github,githubactions,docker,nodejs,nextjs,react,express,html,css,sass,tailwind,js,ts,vercel,jest,prisma,vscode,visualstudio,vim,linux,bash,postman,azure,dotnet,cs,mongodb,postgres,sqlite,prometheus,grafana,firebase,md,regex,figma,photoshop)](https://skillicons.dev)
 
 ---
 
