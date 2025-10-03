@@ -1,6 +1,7 @@
-# Hi! 👋🏻
+# Hi there! 👋🏻
 
-- 🤙🏻 I’m **[@mariusbegby](https://github.com/mariusbegby)**!
-- 💡 I am interested in technology, computers and the software behind.
-- 🔧 I like to learn about all kinds of tools and create solutions to problems with what I've learned.
-- 🙋🏼‍♂️ Feel free to reach me at [mariusbegby@gmail.com](mailto:mariusbegby@gmail.com) or my [LinkedIn](https://www.linkedin.com/in/mariusbegby).
+- 🤙🏻 I'm **[@mariusbegby](https://github.com/mariusbegby)**!
+- 💡 Backend-focused techie who enjoys solving problems in a constantly evolving world.
+- 🔧 I take a product-minded approach to engineering, caring as much about the why as the how.
+- 🙋🏼‍♂️ Reach me at [mariusbegby@gmail.com](mailto:mariusbegby@gmail.com) or my [LinkedIn](https://www.linkedin.com/in/mariusbegby).
+- 🌐 More at my personal site [www.begby.dev](https://www.begby.dev).
